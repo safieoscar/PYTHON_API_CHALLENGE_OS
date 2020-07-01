@@ -1,0 +1,5 @@
+After each pair of plots explain what the linear regression is modeling such as any relationships you notice and any other analysis you may have.
+
+From the "Max Temp" linear equations, it is quite evident that the closer a city is to the equator, meaning latitude 0, the higher the max temperature. 
+From the "Humidity" linear equation, there is no specific correlation between latitude and humidity, that is why the line of best fit is horizontal. This is the same 
+case for the "Cloudiness" linear regression. There is almost no correlation between the city's latitude and the cloudiness. 
